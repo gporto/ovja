@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f9f04ab35e338fe7e610310cd59edaff",
-"index.html": "225db085e231db71828cc9138e707090",
-"/": "225db085e231db71828cc9138e707090",
-"main.dart.js": "8673cad317951aa6fa7e82d43820880d",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "8e79814e31c2a7eff43aae55c4eb2607",
+"/": "8e79814e31c2a7eff43aae55c4eb2607",
+"main.dart.js": "cd883a002fba0468902b86997ec89f42",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -23,11 +22,7 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/login.json": "7bdd7c8fbd3ef0579579421bcf854154",
-"assets/assets/Logo-Amarillo.png": "490d94c63d82470369273a3ed4ebdb95",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/Logo-Amarillo.png": "490d94c63d82470369273a3ed4ebdb95"
 };
 
 // The application shell files that are downloaded before a service worker can
